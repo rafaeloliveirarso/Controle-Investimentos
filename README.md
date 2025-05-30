@@ -3,7 +3,7 @@ Ferramenta de Controle de Investimentos feita em Excel
 
 # 📊 Ferramenta de Controle de Investimentos – Excel
 
-Uma planilha desenvolvida para ajudar investidores a organizarem, acompanharem e analisarem seus investimentos de forma prática e visual. Ideal para controle de carteira, alocação por perfil, FIIs, ações, renda fixa e muito mais.
+Uma planilha desenvolvida para ajudar investidores e leigos no assunto a organizarem, acompanharem e analisarem seus investimentos de forma prática e visual.
 
 ### 🚀 Funcionalidades
 
