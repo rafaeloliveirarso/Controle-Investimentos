@@ -1,4 +1,4 @@
-# Controle-Investimentos
+# Controle de Investimentos
 Ferramenta de Controle de Investimentos feita em Excel
 
 # 📊 Ferramenta de Controle de Investimentos – Excel
@@ -25,7 +25,7 @@ Uma planilha desenvolvida para ajudar investidores a organizarem, acompanharem e
 
 ### ▶️ Como Usar
 
-O usuário dá a entrada dos dados solicitados na página de entrada, enquanto a dashboard vai se autopreenchendo e solicitando as novas interações. Ao final destas, o usuário pode clicar e visualizar o resultado da análise dos investimentos.
+O usuário digita os dados solicitados na página de entrada, enquanto a dashboard vai se auto preenchendo e solicitando as novas interações. Ao final destas, o usuário pode clicar e visualizar o resultado da análise dos investimentos.
 
 ### 🤝 Contribuição
 
